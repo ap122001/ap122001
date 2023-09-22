@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Abhishek Pal</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
+- 📫 How to reach me **abhishekpal0122@gmail.com**
+
+- ⚡ Fun fact **I like exploring, listening songs, gaming, binge watching**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/abhishe4749198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhishe4749198" height="30" width="40" /></a>
